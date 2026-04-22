@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Bouiknoun</h1>
+<h1 align="center">Hi 👋, I'm Bouyakniouane Adam </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Junior+Web+Developer;Future+Full-Stack+Engineer;Passionate+About+Coding;Always+Learning+New+Things" />
@@ -66,7 +66,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:abouyakniouane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
