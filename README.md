@@ -23,7 +23,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,php,mysql,git,github" />
 
 </p>
 
